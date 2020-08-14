@@ -2,7 +2,7 @@
   "name": "monster",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://ansu.github.io/mosters-roledex",
+  "homepage":"https://ansu.github.io/monsters-roledex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
